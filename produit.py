@@ -1,0 +1,6 @@
+ref=input("donner la reference:")
+designation=input("donner la designation:")
+prix=float(input("donner le prix unitaire:"))
+print ("reference:",ref)
+print("designation:",designation)
+print ("prix unitaire:",prix,"DT")
