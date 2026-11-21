@@ -10,3 +10,5 @@ valeur = prix * quantite
 print("valeur totale du stock:",valeur,"DT")
 print("les valeures sont correct hanouna ")
 print("hello nourhene")
+print("bnjr lyly")
+
